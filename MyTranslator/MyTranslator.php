@@ -2,14 +2,7 @@
 
 /**
 * @author JakubD <jakubd@allstar.cz>
-* 
-<<<<<<< HEAD
-* editovano zvenci - primo do masteru
-* editovano na locale - do masteru
-=======
-* editovano zvenci - primo do masteru 2
-* 
->>>>>>> origin/master
+*
 */
 
 
