@@ -4,6 +4,7 @@
 * @author JakubD <jakubd@allstar.cz>
 * 
 * editovano zvenci - primo do masteru
+* editovano na locale - do masteru
 */
 
 
