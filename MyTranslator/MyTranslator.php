@@ -3,7 +3,8 @@
 /**
 * @author JakubD <jakubd@allstar.cz>
 * 
-* editovano zvenci - primo do masteru
+* editovano zvenci - primo do masteru 2
+* 
 */
 
 
