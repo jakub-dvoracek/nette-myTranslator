@@ -2,7 +2,7 @@
 
 /**
 * @author JakubD <jakubd@allstar.cz>
-*
+* repo master zmena
 */
 
 
